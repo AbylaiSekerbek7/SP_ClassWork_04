@@ -48,8 +48,10 @@ namespace ClassWork_04
                 EventWaitHandle onExit = new EventWaitHandle(false, EventResetMode.ManualReset, EventName);
 
                 // Запускаем поток для ожидания завершения дочернего процесса
+                
                 // 1 Variant, doing the same like 2 Variant, but we are using prepared Threads in our OS
                 ThreadPool.QueueUserWorkItem(ThreadProcForExit, onExit);
+                
                 // 2 Variant, here we are using created Thread
                 //Thread th = new Thread(ThreadProcForExit);
                 //th.IsBackground = true;
