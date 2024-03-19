@@ -1,0 +1,8 @@
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\bin\Debug\ClassWork_04_Child.exe.config
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\bin\Debug\ClassWork_04_Child.exe
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\bin\Debug\ClassWork_04_Child.pdb
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\obj\Debug\ClassWork_04_Child.csproj.AssemblyReference.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\obj\Debug\ClassWork_04_Child.csproj.SuggestedBindingRedirects.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\obj\Debug\ClassWork_04_Child.csproj.CoreCompileInputs.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\obj\Debug\ClassWork_04_Child.exe
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04_Child\obj\Debug\ClassWork_04_Child.pdb

@@ -1,0 +1,11 @@
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\bin\Debug\ClassWork_04.exe.config
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\bin\Debug\ClassWork_04.exe
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\bin\Debug\ClassWork_04.pdb
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.csproj.AssemblyReference.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.csproj.SuggestedBindingRedirects.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.Form1.resources
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.Properties.Resources.resources
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.csproj.GenerateResource.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.csproj.CoreCompileInputs.cache
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.exe
+Z:\SP\SP_ClassWorks\ClassWork_04\ClassWork_04\obj\Debug\ClassWork_04.pdb
